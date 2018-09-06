@@ -1,0 +1,15 @@
+1、找到repo要存放的文件夹，右键git bash
+2、创建git init 库名
+3、建立ssh连接到github.com（看帮助）
+4、倒入别人的库可以用git submodule add <url> 库名
+5、把文件拖入文件夹 git add -A
+6、git commit
+7、git commit -m ‘ffff’
+8、git rm test.txt
+9、git status
+10、git mv 1.txt 2.txt（把1改成2，改名）
+11git checkout -- story.txt（还原删除或修改的文件）
+12 git reset 文件（执行另外一个commit）
+
+
+8、push命令将文件远程导入
