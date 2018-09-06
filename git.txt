@@ -1,15 +1,14 @@
-1¡¢ÕÒµ½repoÒª´æ·ÅµÄÎÄ¼ş¼Ğ£¬ÓÒ¼ügit bash
-2¡¢´´½¨git init ¿âÃû
-3¡¢½¨Á¢sshÁ¬½Óµ½github.com£¨¿´°ïÖú£©
-4¡¢µ¹Èë±ğÈËµÄ¿â¿ÉÒÔÓÃgit submodule add <url> ¿âÃû
-5¡¢°ÑÎÄ¼şÍÏÈëÎÄ¼ş¼Ğ git add -A
-6¡¢git commit
-7¡¢git commit -m ¡®ffff¡¯
-8¡¢git rm test.txt
-9¡¢git status
-10¡¢git mv 1.txt 2.txt£¨°Ñ1¸Ä³É2£¬¸ÄÃû£©
-11git checkout -- story.txt£¨»¹Ô­É¾³ı»òĞŞ¸ÄµÄÎÄ¼ş£©
-12 git reset ÎÄ¼ş£¨Ö´ĞĞÁíÍâÒ»¸öcommit£©
+1ã€æ‰¾åˆ°repoè¦å­˜æ”¾çš„æ–‡ä»¶å¤¹ï¼Œå³é”®git bash
+2ã€åˆ›å»ºgit init åº“å
+3ã€å»ºç«‹sshè¿æ¥åˆ°github.comï¼ˆçœ‹å¸®åŠ©ï¼‰
+4ã€å€’å…¥åˆ«äººçš„åº“å¯ä»¥ç”¨git submodule add <url> åº“å
+5ã€æŠŠæ–‡ä»¶æ‹–å…¥æ–‡ä»¶å¤¹ git add -A
+6ã€git commit
+7ã€git commit -m â€˜ffffâ€™
+8ã€git rm test.txt
+9ã€git status
+10ã€git mv 1.txt 2.txtï¼ˆæŠŠ1æ”¹æˆ2ï¼Œæ”¹åï¼‰
+11git checkout -- story.txtï¼ˆè¿˜åŸåˆ é™¤æˆ–ä¿®æ”¹çš„æ–‡ä»¶ï¼‰
+12 git reset æ–‡ä»¶ï¼ˆæ‰§è¡Œå¦å¤–ä¸€ä¸ªcommitï¼‰
+13ã€git push å¯¼å…¥
 
-
-8¡¢pushÃüÁî½«ÎÄ¼şÔ¶³Ìµ¼Èë
